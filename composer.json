@@ -1,0 +1,33 @@
+{
+  "name": "aozen/prism2torchlight",
+  "description": "Laravel package to seamlessly convert PrismJS HTML code blocks to Torchlight syntax highlighting.",
+  "keywords": [
+    "laravel",
+    "syntax highlighting",
+    "code blocks",
+    "prismjs",
+    "torchlight",
+    "laravel package",
+    "highlighting",
+    "code",
+    "laravel syntax",
+    "laravel torchlight",
+    "tinymce"
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^11.0@dev"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Aozen\\Prism2Torchlight\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ali Ozen",
+      "email": "aliozendev@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
